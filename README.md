@@ -1,0 +1,1 @@
+I have completed the task for the React Todo app, which has all CRUD functionalities, and I have also uploaded the front-end source code and the front-end deployed URL.
